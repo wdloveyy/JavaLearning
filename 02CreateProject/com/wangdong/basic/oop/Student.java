@@ -1,5 +1,5 @@
 package com.wangdong.basic.oop;
-
+//继承
 public class Student extends Person {
 
     //学号
