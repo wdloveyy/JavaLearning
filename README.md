@@ -52,6 +52,17 @@ int[][] arr1=new int[3][];
 
 ~~~
 
+java中的可变参数定义：
+
+~~~ java
+ /**
+     * 可变参数方法
+     */
+    public void bariableArgTest(String ... strs){
+        System.out.printf("可变的长度为："+strs.length);
+    }
+~~~
+
 
 
 
